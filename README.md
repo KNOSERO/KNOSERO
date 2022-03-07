@@ -22,4 +22,4 @@ Mała aplikacja do tworzenia memów na kanałach discord
 ## Blog
 W trakcie realizacji
 
-- [Repozytorium](https://github.com/KNOSERO/Blog/settings)
+- [Repozytorium](https://github.com/KNOSERO/Blog)
